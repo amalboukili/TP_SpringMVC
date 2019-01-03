@@ -1,0 +1,10 @@
+package control;
+
+@Controller
+public class HelloWorldController {
+@RequestMapping("/index1")
+public ModelAndView hello(){
+	String msg = "Ma première page Spring MVC";
+	return new ModelAndView("hello", "message", msg);
+}
+}

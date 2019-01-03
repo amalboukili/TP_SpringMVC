@@ -1,0 +1,15 @@
+127.0.0.1 - - [02/Jan/2019:18:00:08 +0100] "GET / HTTP/1.1" 404 962
+0:0:0:0:0:0:0:1 - - [02/Jan/2019:18:00:13 +0100] "GET /TP_SpringMVC_Partie1/WEB-INF/servletPrincipale-servlet.xml HTTP/1.1" 404 960
+0:0:0:0:0:0:0:1 - - [02/Jan/2019:18:01:48 +0100] "GET /TP_SpringMVC_Partie1/index1.xml HTTP/1.1" 404 1024
+127.0.0.1 - - [02/Jan/2019:18:13:30 +0100] "GET / HTTP/1.1" 404 962
+0:0:0:0:0:0:0:1 - - [02/Jan/2019:18:13:30 +0100] "GET /TP_SpringMVC_Partie1/WEB-INF/servletPrincipale-servlet.xml HTTP/1.1" 404 960
+0:0:0:0:0:0:0:1 - - [02/Jan/2019:18:13:40 +0100] "GET /TP_SpringMVC_Partie1/WEB-INF/servletPrincipale-servlet.xml HTTP/1.1" 404 960
+0:0:0:0:0:0:0:1 - - [02/Jan/2019:18:24:05 +0100] "GET /TP_SpringMVC_Partie1/WEB-INF/servletPrincipale-servlet.xml HTTP/1.1" 404 960
+0:0:0:0:0:0:0:1 - - [02/Jan/2019:18:24:08 +0100] "GET /TP_SpringMVC_Partie1/WEB-INF/servletPrincipale-servlet.xml HTTP/1.1" 404 960
+0:0:0:0:0:0:0:1 - - [02/Jan/2019:18:24:09 +0100] "GET /TP_SpringMVC_Partie1/WEB-INF/servletPrincipale-servlet.xml HTTP/1.1" 404 960
+0:0:0:0:0:0:0:1 - - [02/Jan/2019:18:25:48 +0100] "GET /TP_SpringMVC_Partie1/WEB-INF/servletPrincipale-servlet.xml HTTP/1.1" 404 960
+0:0:0:0:0:0:0:1 - - [02/Jan/2019:18:25:50 +0100] "GET /TP_SpringMVC_Partie1/WEB-INF/servletPrincipale-servlet.xml HTTP/1.1" 404 960
+127.0.0.1 - - [02/Jan/2019:18:32:27 +0100] "GET / HTTP/1.1" 404 962
+0:0:0:0:0:0:0:1 - - [02/Jan/2019:18:32:28 +0100] "GET /TP_SpringMVC_Partie1/WEB-INF/classes/control/HelloWorldController.java HTTP/1.1" 404 960
+127.0.0.1 - - [02/Jan/2019:18:38:41 +0100] "GET / HTTP/1.1" 404 962
+0:0:0:0:0:0:0:1 - - [02/Jan/2019:18:38:42 +0100] "GET /TP_SpringMVC_Partie1/WEB-INF/web.xml HTTP/1.1" 404 960
